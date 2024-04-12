@@ -5,7 +5,11 @@ This repository contains the dataset and code for our paper.
 
 ## Task Description
 
-![img/main_idea.png](img/main_idea.png)
+[//]: # (![img/main_idea.png]&#40;img/main_idea.png&#41;)
+
+<p align="center" width="100%">
+    <img src="img/main_idea.png">
+</p>
 
 We compare AI-generated and human-written inspiring Reddit content across India and the UK. 
 Although there may not be any visible differences to the human eye, by using 
