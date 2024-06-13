@@ -18,8 +18,21 @@ between generated and real inspiring posts.
 
 ## Data
 
-All data is available at [`all_data`](all_data.csv)
+The final data is available at [`all_data`](data/all_data.csv)
+All annotations are available in [`all_annotations'](data)
 
 ## Features
 
 Topic Modeling features can be accessed interactively in [`topic_analysis`](topic_analysis)
+
+## Models
+
+### GPT-4 generation
+All generation code is available at [LLM_generation](LLM_generation.py).
+
+### Inspiration Detection models
+Random Forest, Naive Bayes, SVM models are available at [baselines](baselines.ipynb).
+
+XLM-Roberta is available at [roberta](xlm_roberta_multilabel.ipynb).
+
+Llama-2-7b model with LoRA fine-tuning is available at [llama](llama.ipynb).
