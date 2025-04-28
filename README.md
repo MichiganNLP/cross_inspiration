@@ -36,3 +36,9 @@ Random Forest, Naive Bayes, SVM models are available at [baselines](baselines.ip
 XLM-Roberta is available at [roberta](xlm_roberta_multilabel.ipynb).
 
 Llama-2-7b model with LoRA fine-tuning is available at [llama](llama.ipynb).
+
+## Citation
+
+```bibtex
+
+```
